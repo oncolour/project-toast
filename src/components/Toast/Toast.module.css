@@ -12,6 +12,10 @@
   box-shadow: var(--shadow-elevation-medium);
 }
 
+.active {
+  display: flex;
+}
+
 .content {
   flex: 1;
   padding: 12px 0px;
